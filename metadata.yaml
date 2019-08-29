@@ -1,0 +1,41 @@
+_repo: The-Sisters-Rondoli-and-Other-Stories_60136
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Boyd, Ernest Augustus
+    alias: Iarraidh, Gnathai Gan
+    birthdate: 1887
+    deathdate: 1946
+    gutenberg_agent_id: '36778'
+    url: http://www.gutenberg.org/2009/agents/36778
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2019-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcsh 'Maupassant, Guy de, 1850-1893 -- Translations into English'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: The sisters Rondoli -- My landlady -- The little cask -- André's
+  disease -- He? -- My Uncle Sosthène -- The accursed bread -- Madame Luneau's case
+  -- A wise man -- The umbrella -- A meeting -- Decorated! -- Châli -- The legacy.
+title: The Sisters Rondoli, and Other Stories
+url: http://www.gutenberg.org/ebooks/60136
